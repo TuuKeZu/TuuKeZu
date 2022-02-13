@@ -20,7 +20,6 @@
 - 
 - 📫 How to reach me:
      - gmail: tuukka.moilanen@edu.espoo.fi
-     - discord: TuuKeZu#8579
 
 <!---
 TuuKeZu/TuuKeZu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
