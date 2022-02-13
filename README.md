@@ -12,7 +12,7 @@
     Multiplayer: Node.js with socket.io
   }
   - Python: {
-    Aalto Univercity's Python course: grade 5
+    Aalto Univercity's Python course
   }
   - Application Development: {
     electron
