@@ -3,21 +3,22 @@
 - 🌱 I’m currently learning about Node.js and React
 - 💞️ I’m looking to collaborate on anyone whom I share interests with
 - My skills in softare development include:
-  - Fullstack: {
-    frontend: react, javascript
-    backend: node.js, php
-  }
-  - Unity: {
-    3D & 2D: c#,
-    Multiplayer: Node.js with socket.io
-  }
-  - Python: {
-    Aalto Univercity's Python course
-  }
-  - Application Development: {
-    electron
-  }
-- 
+  - Game development
+   -Unity with c#
+   -multiplayer games with socket.io
+   -leaderboards with unity's networking
+  - Fullstack
+    -frontend with raw css, html & javascript
+    -frontend with react
+    -backend with node.js
+    -backend with php
+  - API's
+    -rest-api's with express
+    -knownledge in mysql
+    -experimentation with sequalize
+  - Application development
+    -simple application with electron
+
 - 📫 How to reach me:
      - gmail: tuukka.moilanen@edu.espoo.fi
 
