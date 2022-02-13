@@ -3,21 +3,24 @@
 - 🌱 I’m currently learning about Node.js and React
 - 💞️ I’m looking to collaborate on anyone whom I share interests with
 - My skills in softare development include:
-  - Game development
-   -Unity with c#
-   -multiplayer games with socket.io
-   -leaderboards with unity's networking
-  - Fullstack
-    -frontend with raw css, html & javascript
-    -frontend with react
-    -backend with node.js
-    -backend with php
-  - API's
-    -rest-api's with express
-    -knownledge in mysql
-    -experimentation with sequalize
-  - Application development
-    -simple application with electron
+- Game development
+  - Unity with c#
+  - multiplayer games with socket.io
+  - leaderboards with unity's networking
+- Fullstack
+  - frontend with raw css, html & javascript
+  - frontend with react
+  - backend with node.js
+  - backend with php
+- API's
+  - rest-api's with express
+  - knownledge in mysql
+  - experimentation with sequalize
+- Application development
+  - simple application with electron
+- Other
+  - Knownledge on ubuntu & Raspberry PI lite
+  - Discord bot development with discord.js
 
 - 📫 How to reach me:
      - gmail: tuukka.moilanen@edu.espoo.fi
